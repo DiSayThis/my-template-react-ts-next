@@ -4,13 +4,16 @@
 :root {
     --black: #3B434E;
     --white: white;
-    --primary: #3B434E;
-    --secondary: #3B434E;
+    --gray-light: #ebebeb;
+    --primary: #7653FC;
+    --primary-hover: #4831a3;
+    --secondary: #B3C0D9;
+    --secondary-hover: #6f7788;
     --red: #FC836D;
     --green: #1DC37E;
     --green-light: #C8F8E4;
     --white-paper-blackground: #F5F6F8;
-    --font-family: 'Inter', 'roboto';
+    --font-family: 'Inter', 'Sans serif', 'roboto';
 }
 
 html,
