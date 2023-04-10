@@ -37,7 +37,7 @@ module.exports = {
 		'@typescript-eslint/lines-between-class-members': 'off',
 		'@typescript-eslint/no-unused-expressions': 'error',
 		'@typescript-eslint/no-empty-interface': [
-			'error',
+			'warn',
 			{
 				allowSingleExtends: true,
 			},
